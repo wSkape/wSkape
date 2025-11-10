@@ -1,6 +1,7 @@
 Hi, I’m @wSkape
 
 I’m interested in learn code and english
+
 I’m currently learning Lua and mastering python
 
 Why not collaborate on something, I'm open !
@@ -10,6 +11,7 @@ Just send a message or send an email
 
 
 Pronouns: I don't care of it
+
 Fun fact : I like to solve Rubik's Cube
 
 <!---
