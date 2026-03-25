@@ -11,12 +11,7 @@ Just send a message or send an email, or with Discord @wSkape
 Pronouns: I don't care of it
 
 
-I’m currently learning Lua and mastering python
-
-Here my advanced ! 
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69c1984a33a0ad7a573ecb0c?variant=dark" alt="roadmap.sh"/></a>
-
+I’m currently learning Lua and mastering python.
 
 
 Fun fact : I like to solve Rubik's Cube
